@@ -4,4 +4,4 @@ root: intro
 parts:
   - caption: Sección 1
     chapters:
-      - file: section01/taller_1
+      - file: section01/reto_1_adm.ipynb
